@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Notenanzeiger</string>
+	<string name="clear_cache_title">Remove PDF from cache</string>
+	<string name="clear_cache_message">The currently displayed PDF gets removed from Notenanzeiger\'s cache. The original file remains untouched. Notenanzeiger\'s manual is being displayed.</string>
+	<string name="clear_cache_button_remove">Remove</string>
+	<string name="clear_cache_button_keep">Keep</string>
+	<string name="file_protocol_title">Deprecated protocol detected</string>
+	<string name="file_protocol_message">The protocol \'file://\' is deprecated since Android 7 (aka Nougat, SDK 24) as released August 22, 2016. The will not be displayed.</string>
+	<string name="unsupported_scheme">Unsupported scheme: </string>
+	<string name="unsupported_type">Unsupported type: </string>
+	<string name="alert_button_neutral">OK</string>
+	<string name="usage_title">Usage hint</string>
+	<string name="usage_hint">To reveal the menu, perform a long vertical swipe.</string>
+	<string name="button_import">Import PDF</string>
+	<string name="button_browse">Browse pages</string>
+	<string name="button_clear">Clear cache</string>
+	<string name="button_fullscreen">Toggle fullscreen</string>
+</resources>
