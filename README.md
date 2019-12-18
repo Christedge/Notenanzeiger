@@ -1,5 +1,5 @@
 # Notenanzeiger
-Notenanzeiger is a spike of a fullscreen PDF viewer, intended to be used by musicians to display sheet music on large tablets.
+Notenanzeiger is a spike of a fullscreen PDF viewer, intended to be used by musicians to display sheet music on *large* tablets.
 
 It provides a distraction free user interface which just allows to turn pages forth and back. There's no support for zoom or annotations. Since Notenanzeiger is single threaded at the moment, scrolling through the pages is not as smooth as desirable.
 
